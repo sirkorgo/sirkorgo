@@ -4,4 +4,4 @@ Sirkorgo is my shapeshifting fox OC. I like to use sirkorgo as my online persona
 I love web, graphic, and game design!
 (that's... a LOT of design...)
 
-(this readme is a wip! almost done...)
+I just find it fun to design UIs, and turn them into websites! Or with games, I LOVE coding.

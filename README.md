@@ -13,3 +13,5 @@ I love web, graphic, and game design!
 I just find it fun to design UIs, and turn them into websites! Or with games, I LOVE coding.
 
 Right now, I know how to use CSS and HTML, and a teensy bit of JavaScript. I'm hoping to learn more about JavaScript in the future, and hopefully learn some Python, too.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61WP8KV)

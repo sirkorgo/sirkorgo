@@ -14,7 +14,7 @@ I’ve always had an interest in tinkering with tech and creating designs. That 
 
 **Experience**: Proficent in HTML & CSS, Novice in JavaScript, Experienced in Graphic/UI Design
 
-**Learning/Working On**: JavaScript: [Clutter](https://github.com/sirkorgo/clutter)
+**Working On**: Learning Java
 
 <hr>
 Support me on Ko-Fi, if you really like what I do! (anything is appreciated <3)

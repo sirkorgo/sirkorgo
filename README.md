@@ -14,7 +14,7 @@ I’ve always had an interest in tinkering with tech and creating designs. That 
 
 **Experience**: Proficent in HTML & CSS, Novice in JavaScript, Experienced in Graphic/UI Design
 
-**Working On**: Learning Java
+**Working On**: First Tech Challenge (Java, basically)
 
 <hr>
 Support me on Ko-Fi, if you really like what I do! (anything is appreciated <3)

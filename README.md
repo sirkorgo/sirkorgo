@@ -5,7 +5,7 @@
      |___/_|_|  |_|\_\___/|_|  \__, |\___/(_)
                                |___/         
 ### About Me
-Heyo, I'm Jake! I usually go by Sirkorgo online, and he's my OC who's a shapeshifting corgi that I like to use as my online persona. I love graphic design, web design, a touch of architecture, and a bit of game design (That's a LOT of design).
+Heyo, I'm Jake! I usually go by Sirkorgo online, and he's my OC who's a shapeshifting corgi that I like to use as my online persona. I love graphic design, web design, a touch of interest in architecture, and a bit of game design (That's a LOT of design).
 ### Some History
 I’ve always had an interest in tinkering with tech and creating designs. That tinkering evolved into exploring web design and infrastructure! One example is my personal site, [sirkorgo.com](https://www.sirkorgo.com) I’ve been building on it and learning about HTML, CSS, and JavaScript, while also exploring some design skills. I also just find it really fun to just open up Photoshop or Figma and mock up designs of my OCs, posters, or UIs.
 
